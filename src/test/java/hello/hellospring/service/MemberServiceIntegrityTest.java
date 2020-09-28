@@ -13,7 +13,7 @@ import static org.assertj.core.api.Assertions.fail;
 
 @SpringBootTest
 @Transactional
-class MemberServiceIntegrityTest {
+class  MemberServiceIntegrityTest {
 
     @Autowired
     MemberService memberService;
